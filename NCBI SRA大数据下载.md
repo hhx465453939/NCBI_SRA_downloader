@@ -11,3 +11,6 @@ linux使用download_FTP_linux.py实现自动化断点传输下载
 ## aspera
 参考https://www.jianshu.com/p/7eb4776429b9
 速度快但是需要私钥公钥秘钥等，建议自己下载以后本地部署Aspera Connect 4.1.3以前的版本到本地以后使用download_ascp.py实现自动化高速下载
+
+# MD5 checksum
+## 运行md5check.py就好，参数自己改吧，自动多线程并行
